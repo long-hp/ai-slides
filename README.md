@@ -1,13 +1,7 @@
-# AI Agent Interactive PPT
+# AI Millionaire — HTML PPT Game
 
-Offline HTML presentation about AI Agents.
+Interactive 10-slide “Ai Là Triệu Phú” deck built from the `graphify-dark-graph` full-deck template of `lewislulu/html-ppt-skill`.
 
-Features:
-- 6-slide tech-sharing deck
-- Interactive quiz
-- Clickable agent loop
-- Chatbot vs Agent hover interaction
-- Gift box easter egg with confetti
-- Offline CSS/JS/assets
+This is an offline HTML presentation/game. Open `index.html` directly in a browser.
 
-Open `index.html` locally or deploy the repository to Vercel.
+Controls: ← / → / Space, F fullscreen, O overview, N notes, S presenter view, A animation, T theme.

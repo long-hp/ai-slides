@@ -1,0 +1,2 @@
+/* Local/offline font declarations. System fallbacks keep the deck dependency-free. */
+:root{--font-sans:'Inter','Noto Sans',Arial,sans-serif;--font-display:'JetBrains Mono','IBM Plex Mono',monospace}
